@@ -1,0 +1,11 @@
+/Users/justinquinn/Documents/rust/snake-tutorial_JQ/./debug/deps/gfx_device_gl-1f5c798beb6b2a59.rmeta: /Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/lib.rs /Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/command.rs /Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/factory.rs /Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/info.rs /Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/shade.rs /Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/state.rs /Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/tex.rs
+
+/Users/justinquinn/Documents/rust/snake-tutorial_JQ/./debug/deps/gfx_device_gl-1f5c798beb6b2a59.d: /Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/lib.rs /Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/command.rs /Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/factory.rs /Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/info.rs /Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/shade.rs /Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/state.rs /Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/tex.rs
+
+/Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/lib.rs:
+/Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/command.rs:
+/Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/factory.rs:
+/Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/info.rs:
+/Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/shade.rs:
+/Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/state.rs:
+/Users/justinquinn/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/tex.rs:

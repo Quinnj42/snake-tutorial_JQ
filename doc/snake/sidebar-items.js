@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["BACK_COLOR",""]],"fn":[["main",""]],"mod":[["draw",""],["game",""],["snake",""]]};

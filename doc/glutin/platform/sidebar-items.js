@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["macos","Platform-specific methods for macOS."],["run_return","Platform-specific methods for event loops independent from the application lifetime."]],"trait":[["ContextTraitExt","Platform-specific extensions for OpenGL `Context`s."]]};

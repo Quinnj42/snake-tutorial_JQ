@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["BORDER_COLOR",""],["FOOD_COLOR",""],["GAMEOVER_COLOR",""],["MOVING_PERIOD",""],["RESTART_TIME",""]],"struct":[["Game",""]]};

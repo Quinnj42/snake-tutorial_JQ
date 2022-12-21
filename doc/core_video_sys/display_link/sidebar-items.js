@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["__CVDisplayLink",""]],"fn":[["CVDisplayLinkCreateWithCGDisplay",""],["CVDisplayLinkGetNominalOutputVideoRefreshPeriod",""],["CVDisplayLinkGetTypeID",""],["CVDisplayLinkRelease",""]],"type":[["CVDisplayLinkRef",""]]};

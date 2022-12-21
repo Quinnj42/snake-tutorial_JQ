@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["SNAKE_COLOR",""]],"enum":[["Direction",""]],"struct":[["Block",""],["Snake",""]]};

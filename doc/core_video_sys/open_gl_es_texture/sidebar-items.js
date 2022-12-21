@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["CVOpenGLESTextureGetName",""],["CVOpenGLESTextureGetTarget",""],["CVOpenGLESTextureGetTypeID",""],["CVOpenGLESTextureIsFlipped",""]],"type":[["CVOpenGLESTextureRef",""]]};

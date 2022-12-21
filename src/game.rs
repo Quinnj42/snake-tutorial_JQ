@@ -1,3 +1,5 @@
+///documentation for Rust Workshop
+
 use piston_window::types::Color;
 use piston_window::*;
 
